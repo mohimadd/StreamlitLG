@@ -4,4 +4,4 @@ scikit-learn == 1.6.0
 pip==24.3.1
 statsmodels == 0.14.4
 numpy
-Python==3.11.0
+python==3.7
