@@ -1,0 +1,45 @@
+Gender :
+- Pada pria cenderung berada pada kondisi obesitas tingkat II, obesitas tingkat I, dan overweight tingkat I
+- Pada Wanita cenderung pada kondisi obesitas tingkat III, kurang BB, dan obesitas tingkat I
+* sebutkan distrubusi yang siginifikan berbeda antara kedua kelompok.
+-- 
+
+Riwayat keluarga Overweight :
+- Orang dengan Riwayat keluarga overweight cederung memiliki kondisi obesitas dan overweight
+* gunakan data angka : "Sebanyak 74.6% individu dengan riwayat keluarga overweight berada dalam kategori overweight obesitas."
+
+FAVC :
+- Orang dengan Riwayat makan tinggi kalori cenderung memiliki kondisi obesitas dan overweight
+* tambahkan distribusi per kelas : "Sebanyak 77.3% orang dengan Riwayat makan tinggi kalori berada dalam kategori overweight obesitas
+
+CAEC : -> cukup anomali
+- Orang dengan Riwayat terkadang Makanan snack diantara makan besar cenderung memiliki kondisi obesitas dan overweight
+* Bandingkan dengan kondisi always :
+
+SMOKE : -> cukup anomaly, perlu tambahan data
+- Orang dengan Riwayat tidak merokok cenderung memiliki kondisi obesitas dan overweight
+*  tambahkan data per tiap kategori obesitas
+
+SCC :
+- Orang yang tidak melakukan monitoring kalori pada makanannya cenderung memiliki kondisi obesitas dan overweight
+* tambahkan distribusi numerik agar lebih variatif
+
+
+CALC :
+- Orang dengan kebiasaan terkadang minum alcohol cenderung memiliki kondisi obesitas dan overweight
+* jelaskan lebih rinci perbedaan antar kategori 'sometimes' dan always, jika ada kategori yang sangat kecil bisa disebutkan untuk memastikan distribusi yang adil
+
+
+MTRANS : -> anomali
+- Orang pengguna transportasi umum cenderung memiliki kondisi obesitas dan overweight
+* sebutkan data numerik seperti proporsi obesitas di pengguna transportasi umum dibandingkan dengan kategori lain
+
+
+Tips tambahan : 
+- Identifikasi factor dominan
+- Kaitkan dengan prediksi, jika ada yang tidak terlalu signifikan dapat diabaikan
+- Beberapa insight dapat digabungkan
+
+
+Gender
+sebutkan distrubusi yang siginifikan berbeda antara kedua kelompok.
